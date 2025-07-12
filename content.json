@@ -1,0 +1,153 @@
+{
+  "Happy": {
+    "quote": "Happiness is only real when shared. — Christopher McCandless",
+    "podcast": {
+      "title": "The Science of Happiness",
+      "link": "https://open.spotify.com/episode/0QFvrcpe71B9BRzZcE6PYk"
+    },
+    "video": {
+      "title": "The Habits of Happy People",
+      "link": "https://www.youtube.com/watch?v=JcUzkxI5a2Y"
+    },
+    "article": {
+      "title": "The Secret to Happiness",
+      "link": "https://www.nytimes.com/guides/well/how-to-be-happy"
+    }
+  },
+  "Sad": {
+    "quote": "Tears come from the heart and not from the brain. — Leonardo da Vinci",
+    "podcast": {
+      "title": "Crying is Okay (The Happiness Lab)",
+      "link": "https://open.spotify.com/episode/2YH6HmhkY5nR4hUMzKRMdx"
+    },
+    "video": {
+      "title": "Sadness and the Value of Vulnerability",
+      "link": "https://www.youtube.com/watch?v=R9qVa4LoJsw"
+    },
+    "article": {
+      "title": "How to Deal with Sadness",
+      "link": "https://www.verywellmind.com/how-to-cope-with-sadness-5093268"
+    }
+  },
+  "Curious": {
+    "quote": "Curiosity is the wick in the candle of learning. — William Arthur Ward",
+    "podcast": {
+      "title": "Stuff You Should Know",
+      "link": "https://open.spotify.com/show/0ofXAdFIQQRsCYj9754UFx"
+    },
+    "video": {
+      "title": "Why Do We Dream?",
+      "link": "https://www.youtube.com/watch?v=7GGzc3x9WJU"
+    },
+    "article": {
+      "title": "Why Curiosity Matters",
+      "link": "https://hbr.org/2018/09/why-curiosity-matters"
+    }
+  },
+  "Bored": {
+    "quote": "Boredom always precedes a period of great creativity. — Robert M. Pirsig",
+    "podcast": {
+      "title": "The Power of Boredom (TED Radio Hour)",
+      "link": "https://open.spotify.com/episode/6WzOcW0GOr1QKjCae9IXUp"
+    },
+    "video": {
+      "title": "How Boredom Can Lead to Your Most Brilliant Ideas",
+      "link": "https://www.youtube.com/watch?v=MKcKT9EyZ2g"
+    },
+    "article": {
+      "title": "10 Productive Things to Do When You're Bored",
+      "link": "https://www.lifehack.org/articles/lifestyle/10-things-you-can-do-when-you-feel-bored.html"
+    }
+  },
+  "Anxious": {
+    "quote": "You don’t have to control your thoughts. You just have to stop letting them control you. — Dan Millman",
+    "podcast": {
+      "title": "How to Cope With Anxiety (The Daily Shine)",
+      "link": "https://open.spotify.com/episode/0k7jJAFKVFrZDZ0Ef6HVFS"
+    },
+    "video": {
+      "title": "5-Minute Meditation You Can Do Anywhere",
+      "link": "https://www.youtube.com/watch?v=inpok4MKVLM"
+    },
+    "article": {
+      "title": "7 Ways to Calm Your Anxiety Naturally",
+      "link": "https://www.healthline.com/health/natural-ways-to-reduce-anxiety"
+    }
+  },
+  "Lonely": {
+    "quote": "The most terrible poverty is loneliness, and the feeling of being unloved. — Mother Teresa",
+    "podcast": {
+      "title": "The Science of Loneliness (Happiness Lab)",
+      "link": "https://open.spotify.com/episode/3md2avS9SnRvZLDZc4lwkU"
+    },
+    "video": {
+      "title": "Feeling Lonely? You're Not Alone",
+      "link": "https://www.youtube.com/watch?v=n3Xv_g3g-mA"
+    },
+    "article": {
+      "title": "How to Cope with Loneliness",
+      "link": "https://www.psychologytoday.com/us/blog/pieces-mind/201708/how-cope-loneliness"
+    }
+  },
+  "Moody": {
+    "quote": "Feelings are much like waves, we can't stop them from coming but we can choose which one to surf. — Jonatan Mårtensson",
+    "podcast": {
+      "title": "How to Understand Your Emotions",
+      "link": "https://open.spotify.com/episode/7EwKog2fRw1nSpf0glq8nY"
+    },
+    "video": {
+      "title": "The Mood Map: Emotional Intelligence Simplified",
+      "link": "https://www.youtube.com/watch?v=ZxfJ4OZB2pA"
+    },
+    "article": {
+      "title": "How to Manage Emotional Mood Swings",
+      "link": "https://www.medicalnewstoday.com/articles/how-to-control-mood-swings"
+    }
+  },
+  "Hopeful": {
+    "quote": "Hope is being able to see that there is light despite all of the darkness. — Desmond Tutu",
+    "podcast": {
+      "title": "Hope in Times of Uncertainty",
+      "link": "https://open.spotify.com/episode/1nAiy7zvjMLOzVymjEMya0"
+    },
+    "video": {
+      "title": "What Gives People Hope?",
+      "link": "https://www.youtube.com/watch?v=lfSTVYdLLlQ"
+    },
+    "article": {
+      "title": "The Science and Power of Hope",
+      "link": "https://greatergood.berkeley.edu/article/item/the_science_of_hope_and_how_it_can_change_your_life"
+    }
+  },
+  "Inspired": {
+    "quote": "Don't wait for inspiration. It comes while one is working. — Henri Matisse",
+    "podcast": {
+      "title": "Creative Pep Talk",
+      "link": "https://open.spotify.com/show/3r7wjsz5vj8lnfawDljQv8"
+    },
+    "video": {
+      "title": "Do What You Can't – Casey Neistat",
+      "link": "https://www.youtube.com/watch?v=jG7dSXcfVqE"
+    },
+    "article": {
+      "title": "How to Stay Inspired Every Day",
+      "link": "https://www.themuse.com/advice/7-ways-to-keep-your-motivation-up-even-when-youre-feeling-defeated"
+    }
+  },
+  "Confused": {
+    "quote": "If you’re not confused, you’re not paying attention. — Tom Peters",
+    "podcast": {
+      "title": "Clarity in Chaos",
+      "link": "https://open.spotify.com/episode/7v5Jc5W1cTGcPlECl7RbNy"
+    },
+    "video": {
+      "title": "How to Make Hard Choices",
+      "link": "https://www.youtube.com/watch?v=8GQZuzIdeQQ"
+    },
+    "article": {
+      "title": "What To Do When You Feel Lost or Confused",
+      "link": "https://tinybuddha.com/blog/what-to-do-when-you-feel-lost-in-life/"
+    }
+  }
+}
+
